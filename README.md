@@ -61,26 +61,14 @@ Masalah ini dapat:
 - **Lingkungan Kerja:** Jupyter Notebook
 
 ## 4. Project Structure
-├── README.md <- Dokumentasi project ini.
-│
-├── data
-│ ├── raw <- Data mentah dari sistem Transjakarta. ---> file upload terpisah
-│ └── cleaned <- Data setelah proses cleaning (flagging & imputasi). ---> file upload terpisah
-│
-├── notebooks <- Jupyter notebooks untuk analisis.
-│ ├── 1.0-fsm-data-cleaning.ipynb
-│ ├── 2.0-fsm-eda-tapout.ipynb
-│ ├── 3.0-fsm-statistical-test.ipynb
-│ └── 4.0-fsm-dashboard-prep.ipynb
-│
-├── reports
-│ ├── slide <- Laporan presentasi (PowerPoint)
-│ └── figures <- Grafik & visualisasi untuk laporan.
-│
-├── requirements.txt <- Dependencies (pip freeze > requirements.txt).
-│
-└── src <- Script Python (fungsi cleaning, flagging, analisis, dsb).
-
+- README.md <- Dokumentasi project ini.
+- data
+    -raw <- Data mentah dari sistem Transjakarta. ---> file upload terpisah
+    - cleaned <- Data setelah proses cleaning (flagging & imputasi). ---> file upload terpisah
+- notebooks <- Jupyter notebooks untuk analisis.
+- reports
+    - slide <- Laporan presentasi (PowerPoint)
+    - figures <- Grafik & visualisasi untuk laporan.
 
 ## 5. Summary of Findings
 
