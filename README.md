@@ -129,6 +129,8 @@ Masalah ini dapat:
 
 ---
 
+Link Tableau : https://public.tableau.com/app/profile/fransiska.sri.mayawi/viz/Transjakarta_17530220194960/DashboardTransjakarta
+
 ## 6. Contact
 - **Nama:** Fransiska Sri Mayawi  
 - **Email:** siskatho17@gmail.com 
